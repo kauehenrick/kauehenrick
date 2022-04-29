@@ -20,6 +20,8 @@ int main()
     {
         printf("Informe a nota: \n");
         scanf("%f", &vet[b]);
+        printf("Informe a Carga Horária da Disciplina: \n");
+        scanf("%d", &horas[b]);
         b++;
     }
     
@@ -28,5 +30,8 @@ int main()
         printf("%.2f \n", vet[bb]);
         bb++;
     }
+    
+    //printf("%d", horas[0]);
+    
     return 0;
 }
