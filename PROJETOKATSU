@@ -1,37 +1,32 @@
 #include <stdio.h>
-
-void carga1()
-{
-    int y;
-        scanf("%d", &y);
-        printf("%d \n", y);
-        
-}
-void notas()
-{
-        float x;
-        scanf("%f", &x);
-        printf("%.2f \n", x);
-}
-
+//void soma()
+//{
+//    int cargatot = 
+//}
+//
 //A partir daqui começa o programa XD
 int main()
 {
     int b = 0;
-    int z = 0;
-    float c;
-    int d;
+    int bb = 0;
+    int quant;
+    int horas[13];
+    float vet[13];
     
-    while (b < 13)
+    printf("Informe a Quantidade de Matérias: \n");
+    scanf("%d", &quant);
+    
+    while (b < quant)
     {
-        notas(c);
-        b ++;
+        printf("Informe a nota: \n");
+        scanf("%f", &vet[b]);
+        b++;
     }
     
-    while (z < 11)
+    while (bb < quant)
     {
-        carga1(d);
-        z ++;
+        printf("%.2f \n", vet[bb]);
+        bb++;
     }
     return 0;
 }
