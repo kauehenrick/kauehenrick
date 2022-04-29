@@ -1,0 +1,37 @@
+#include <stdio.h>
+
+void carga1()
+{
+    int y;
+        scanf("%d", &y);
+        printf("%d \n", y);
+        
+}
+void notas()
+{
+        float x;
+        scanf("%f", &x);
+        printf("%.2f \n", x);
+}
+
+//A partir daqui começa o programa XD
+int main()
+{
+    int b = 0;
+    int z = 0;
+    float c;
+    int d;
+    
+    while (b < 13)
+    {
+        notas(c);
+        b ++;
+    }
+    
+    while (z < 11)
+    {
+        carga1(d);
+        z ++;
+    }
+    return 0;
+}
