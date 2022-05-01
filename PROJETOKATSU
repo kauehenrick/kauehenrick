@@ -35,38 +35,3 @@ int main()
     
     return 0;
 }
-
-//    int cargatot = 
-//}
-//
-//A partir daqui começa o programa XD
-int main()
-{
-    int b = 0;
-    int bb = 0;
-    int quant;
-    int horas[13];
-    float vet[13];
-    
-    printf("Informe a Quantidade de Matérias: \n");
-    scanf("%d", &quant);
-    
-    while (b < quant)
-    {
-        printf("Informe a nota: \n");
-        scanf("%f", &vet[b]);
-        printf("Informe a Carga Horária da Disciplina: \n");
-        scanf("%d", &horas[b]);
-        b++;
-    }
-    
-    while (bb < quant)
-    {
-        printf("%.2f \n", vet[bb]);
-        bb++;
-    }
-    
-    //printf("%d", horas[0]);
-    
-    return 0;
-}
