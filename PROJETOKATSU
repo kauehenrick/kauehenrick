@@ -7,17 +7,33 @@ int main()
     int b = 0;
     int bb = 0;
     int db = 0;
+    int nb = 0;
     int quant;
     int horas[13];
     float vet[13];
     int cargatotal = 0;
     char materias [13][25] = {"Lingua Portuguesa", "Arte", "Atv. Complementares", "Biologia", "Educação Física", "Filosofia", "Física", "Geografia", "História", "Inglês", "Matemática", "Química", "Sociologia"};
+    char dados [3][100];
     int data [3];
+
+//Informar e imprimir os dados do aluno(a)
+    //printf("Informe o nome do Aluno(a): \n");
+    //scanf("%s", &dados[0]);
+    //printf("Informe o nome do Pai ou responsável do Aluno(a): \n");
+    //scanf("%s", &dados[1]);
+    //printf("Informe o nome da Mãe ou responsável do Aluno(a): \n");
+    //scanf("%s", &dados[2]);
+    
+    //while (nb < 3)
+    //{
+    //    printf("%s \n", dados[nb]);
+    //    nb ++;
+    //}
 
 //carga Horária + Disciplinas  
     printf("Informe a Quantidade de Matérias: \n");
     scanf("%d", &quant);
-    
+
     while (b < quant)
     {
         printf("Informe a nota de %s:\n", materias[b]);
@@ -37,12 +53,13 @@ int main()
     printf("A Carga Horária Total das Disciplinas É %dh \n", cargatotal);
     
 //Para imprimir a data    
-    printf("Informe a data de hoje: Dia/Mês/Ano \n");
+    printf("Informe a data de hoje Dia/Mês/Ano: \n");
     while (db < 3)
     {
         scanf("%d", &data[db]);
         db ++;
     }
     printf("%d/%d/%d", data[0], data[1], data[2]);
+    
     return 0;
 }
