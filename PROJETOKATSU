@@ -1,6 +1,41 @@
+#include <stdlib.h>
+#include <string.h>
 #include <stdio.h>
-//void soma()
-//{
+
+//A partir daqui começa o programa XD
+int main()
+{
+    int b = 0;
+    int bb = 0;
+    int quant;
+    int horas[13];
+    float vet[13];
+    int cargatotal;
+    
+    printf("Informe a Quantidade de Matérias: \n");
+    scanf("%d", &quant);
+    
+    while (b < quant)
+    {
+        printf("Informe a nota: \n");
+        scanf("%f", &vet[b]);
+        printf("Informe a Carga Horária da Disciplina: \n");
+        scanf("%d", &horas[b]);
+        cargatotal = cargatotal + horas[b];
+        b++;
+    }
+    
+    while (bb < quant)
+    {
+        printf("%.2f \n", vet[bb]);
+        bb++;
+    }
+    
+    printf("A Carga Horária Total das Disciplinas É %dh", cargatotal);
+    
+    return 0;
+}
+
 //    int cargatot = 
 //}
 //
