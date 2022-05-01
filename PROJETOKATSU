@@ -2,22 +2,25 @@
 #include <string.h>
 #include <stdio.h>
 
-//A partir daqui começa o programa XD
 int main()
 {
     int b = 0;
     int bb = 0;
+    int db = 0;
     int quant;
     int horas[13];
     float vet[13];
-    int cargatotal;
-    
+    int cargatotal = 0;
+    char materias [13][25] = {"Lingua Portuguesa", "Arte", "Atv. Complementares", "Biologia", "Educação Física", "Filosofia", "Física", "Geografia", "História", "Inglês", "Matemática", "Química", "Sociologia"};
+    int data [3];
+
+//carga Horária + Disciplinas  
     printf("Informe a Quantidade de Matérias: \n");
     scanf("%d", &quant);
     
     while (b < quant)
     {
-        printf("Informe a nota: \n");
+        printf("Informe a nota de %s:\n", materias[b]);
         scanf("%f", &vet[b]);
         printf("Informe a Carga Horária da Disciplina: \n");
         scanf("%d", &horas[b]);
@@ -31,7 +34,15 @@ int main()
         bb++;
     }
     
-    printf("A Carga Horária Total das Disciplinas É %dh", cargatotal);
+    printf("A Carga Horária Total das Disciplinas É %dh \n", cargatotal);
     
+//Para imprimir a data    
+    printf("Informe a data de hoje: Dia/Mês/Ano: \n");
+    while (db < 3)
+    {
+        scanf("%d", &data[db]);
+        db ++;
+    }
+    printf("%d/%d/%d", data[0], data[1], data[2]);
     return 0;
 }
