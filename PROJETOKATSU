@@ -37,7 +37,7 @@ int main()
     printf("A Carga Horária Total das Disciplinas É %dh \n", cargatotal);
     
 //Para imprimir a data    
-    printf("Informe a data de hoje: Dia/Mês/Ano: \n");
+    printf("Informe a data de hoje: Dia/Mês/Ano \n");
     while (db < 3)
     {
         scanf("%d", &data[db]);
