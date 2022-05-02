@@ -33,7 +33,9 @@ int main()
 //carga Horária + Disciplinas  
     printf("Informe a Quantidade de Matérias: \n");
     scanf("%d", &quant);
-
+    
+    if (quant % 1 != quant && quant <= 18)
+    {
     while (b < quant)
     {
         printf("Informe a nota de %s:\n", materias[b]);
@@ -49,8 +51,12 @@ int main()
         printf("%.2f \n", vet[bb]);
         bb++;
     }
-    
-    printf("A Carga Horária Total das Disciplinas É %dh \n", cargatotal);
+        printf("A Carga Horária Total das Disciplinas É %dh \n", cargatotal);
+    }
+    else
+    {
+        printf("Informação inválida \n");
+    }
     
 //Para imprimir a data    
     printf("Informe a data de hoje Dia/Mês/Ano: \n");
