@@ -4,14 +4,18 @@
 
 int main()
 {
+//variáveis contadoras
     int b = 0;
     int bb = 0;
     int db = 0;
     int nb = 0;
+    
+    int cargatotal = 0;
     int quant;
+    
+//arrays   
     int horas[13];
     float vet[13];
-    int cargatotal = 0;
     char materias [13][25] = {"Lingua Portuguesa", "Arte", "Atv. Complementares", "Biologia", "Educação Física", "Filosofia", "Física", "Geografia", "História", "Inglês", "Matemática", "Química", "Sociologia"};
     char dados [3][100];
     int data [3];
