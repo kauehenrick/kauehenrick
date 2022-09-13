@@ -1,6 +1,6 @@
 # Hi 🙏, Kauê here, nice to meet you!
 
-Passionate about technology in general, improving my skills and becoming better and better than yesterday's Kauê
+Passionate about technology, improving my skills and becoming better and better than yesterday's Kauê
 
 At this moment, attending high school integrated to Computer Technician course, at the Federal Institute of Bahia (IFBA) - Campus Barreiras
 
