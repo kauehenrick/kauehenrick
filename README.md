@@ -1,3 +1,4 @@
+### Hi 🙏, Kauê here, nice to meet you!
 
 📚 Currently, attending high school integrated to Computer Technician course, at the Federal Institute of Bahia (IFBA) - Campus Barreiras
 
