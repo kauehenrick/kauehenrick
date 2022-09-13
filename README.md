@@ -2,7 +2,7 @@
 
 Passionate about technology in general, improving my skills and becoming better and better than yesterday's Kauê
 
-Attending high school integrated to Computer Technician course, at the Federal Institute of Bahia (IFBA) - Campus Barreiras
+At this moment, attending high school integrated to Computer Technician course, at the Federal Institute of Bahia (IFBA) - Campus Barreiras
 
 Internship at the public agency CEMIT - Bacia do Rio Grande
 
