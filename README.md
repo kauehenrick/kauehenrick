@@ -1,4 +1,6 @@
-# Hi 🙏, Kauê here, nice to meet you!
+<h1 align="center">
+Hi 🙏, Kauê here, nice to meet you!
+<h1>
 
 <img src="https://img.shields.io/badge/CodeNewbie-9013FE?style=for-the-badge&logo=CodeNewbie&logoColor=white" />
 
