@@ -1,7 +1,7 @@
 <div align='center'>
   <h1>Hi 🙏, Kauê here, nice to meet you!</h1>
   
-  <p>Brazilian 🇧🇷, 18y</p>
+  <p><i>Brazilian 🇧🇷, 18y</i></p>
 
   <p>Passionate about technology, improving my skills and becoming better and better than yesterday's Kauê.</p>
 
