@@ -3,10 +3,10 @@
 
 <p>Passionate about technology, improving my skills and becoming better and better than yesterday's Kauê.</p>
 
-[![Instagram](<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/k.a.ue)
-[![LinkedIn](<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/kauehenrick) 
-[![Gmail](<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:kauek78942@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-[![WhatsApp](<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/557799434338)
+[![Instagram]("https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white")](https://instagram.com/k.a.ue)
+[![LinkedIn]("https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://linkedin.com/in/kauehenrick) 
+[![Gmail]("https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white")](mailto:kauek78942@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+[![WhatsApp]("https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white")](https://wa.me/557799434338)
 </div>
 
 <h2 align="center">👨‍💻 Currently learning:</h2>
