@@ -1,3 +1,8 @@
+<div align="center">
+  <img height="75px" src="khicon.png" alt="logo">
+  <h1 align="center">kaue</h1>
+</div>
+
 <div align='center'>
   <h1>Hi 🙏, Kauê here, nice to meet you!</h1>
   
