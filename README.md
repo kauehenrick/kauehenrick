@@ -8,6 +8,7 @@
 </p>
 
 > **You can find me on one of my social networks below.**
+<br>
 > **Você pode me encontrar em uma de minhas redes sociais abaixo.**
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kauehenrick)
