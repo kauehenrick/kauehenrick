@@ -13,10 +13,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react"/>
 </p>
 
-> Hello friend, my name is Kauê, welcome!!
+> Hello friend, **my name is Kauê**, welcome!!
 
 ---
 
-> Olá amigo, meu nome é Kauê, seja bem vindo!!
+> Olá amigo, **meu nome é Kauê**, seja bem vindo!!
 
 
