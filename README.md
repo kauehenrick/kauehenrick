@@ -8,7 +8,7 @@
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/557799434338)
  
 </div>
- 
+<br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react"/>
 </p>
@@ -18,9 +18,5 @@
 ---
 
 > Olá amigo, meu nome é Kauê, seja bem vindo!!
-
-> **You can find me on one of my social networks below.**
-
-> **Você pode me encontrar em uma de minhas redes sociais abaixo.**
 
 
