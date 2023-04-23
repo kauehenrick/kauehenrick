@@ -2,13 +2,12 @@
   <img height="75px" src="khicon.png" alt="logo">
   <h1 align="center">Kauê Henrick</h1>
 </div>
-
-  <p><i>Brazilian 🇧🇷, 18y</i></p>
   
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react"/>
 </p>
 
+<div align="center">
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kauehenrick)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauek78942@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/k.a.ue)
