@@ -5,7 +5,7 @@
 </div>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs"/>
 </p>
 
 > Hello friend, **my name is Kauê**, welcome!!
