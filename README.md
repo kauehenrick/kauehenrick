@@ -5,7 +5,7 @@
 </div>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs, nextjs, reactjs, vuejs, tailwind"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,nextjs,reactjs,vuejs,tailwind"/>
 </p>
 
 > Hello friend, **my name is Kauê**, welcome!!
