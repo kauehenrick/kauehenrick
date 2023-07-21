@@ -4,9 +4,9 @@
   
 </div>
 <br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,react,vuejs,tailwind"/>
-</p>
+*/<p align="center">
+ <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,react,vuejs,tailwind"/>
+</p>/*
 
 > Hello friend, **my name is Kauê**, welcome!!
 
