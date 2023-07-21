@@ -3,10 +3,10 @@
   <h1 align="center">👾 Kauê Henrick 🫣</h1>
   
 </div>
-<br>
+<!--<br>
 <p align="center">
  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,react,vuejs,tailwind"/>
-</p>
+</p>-->
 
 > Hello friend, **my name is Kauê**, welcome!!
 
