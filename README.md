@@ -7,6 +7,9 @@
 <p align="center">
  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,react,vuejs,tailwind"/>
 </p>-->
+<p align="center">
+ <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,git,mysql,ruby"/>
+</p>-->
 
 > Hello friend, **my name is Kauê**, welcome!!
 
