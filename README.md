@@ -5,7 +5,7 @@
 
 <p align="center">
  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,git,mysql,ruby"/>
-</p>-->
+</p>
 
 > Hello friend, **my name is Kauê**, welcome!!
 
