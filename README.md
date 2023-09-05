@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
- <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,git,mysql,ruby"/>
+ <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,git,ruby,rubyonrails"/>
 </p>
 
 > Hello friend, **my name is Kauê**, welcome!!
