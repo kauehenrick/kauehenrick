@@ -7,9 +7,3 @@
 <p align="center">
  <img src="https://skillicons.dev/icons?i=ruby,rails,javascript,nodejs,postgresql"/>
 </p>
-
-> Hello friend, **my name is Kauê**, welcome!!
-
----
-
-> Olá amigo, **meu nome é Kauê**, seja bem vindo!!
