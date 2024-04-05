@@ -15,5 +15,5 @@
 
 <br>
 <p align="center">
- <img src="https://skillicons.dev/icons?i=ruby,rails,javascript,nodejs,postgresql"/>
+ <img src="https://skillicons.dev/icons?i=javascript,nodejs,postgresql"/>
 </p>
