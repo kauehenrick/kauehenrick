@@ -3,10 +3,10 @@
 </div>
 <br>
 
-```ruby
-  def myProfile
-    puts "Welcome, nice to see you here!";
-  end
+```js
+  let greet => {
+    return Welcome, nice to see you here!";
+  }
 ```
 <br>
 <p align="center">
