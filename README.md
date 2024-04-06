@@ -5,7 +5,7 @@
 
 ```js
   let greet => {
-    return Welcome, nice to see you here!";
+    return "Welcome, nice to see you here!";
   }
 ```
 <br>
