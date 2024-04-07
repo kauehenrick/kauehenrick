@@ -10,10 +10,10 @@
 ```
 <br>
 <p align="center">
- <img src="https://skillicons.dev/icons?i=react,figma"/>
+ <img src="https://skillicons.dev/icons?i=javascript,typescript,react,figma"/>
 </p>
 
 <br>
 <p align="center">
- <img src="https://skillicons.dev/icons?i=javascript,nodejs,postgresql"/>
+ <img src="https://skillicons.dev/icons?i=nodejs,postgresql"/>
 </p>
