@@ -10,7 +10,7 @@
 ```
 <br>
 <p align="center">
- <img src="https://skillicons.dev/icons?i=javascript,typescript,react,figma"/>
+ <img width="15" src="https://skillicons.dev/icons?i=javascript,typescript,react,figma"/>
 </p>
 
 <br>
