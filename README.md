@@ -8,7 +8,7 @@
 </p>
 
 ```js
-  let greet => {
+  let greet = () => {
     console.log("Welcome, nice to see you here!");
   }
 ```
