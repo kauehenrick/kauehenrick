@@ -3,4 +3,6 @@
 </div>
 <br>
 
+<br>
+
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,tailwind,postgres,figma,git,linux)](https://skillicons.dev)
