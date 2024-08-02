@@ -8,4 +8,4 @@
   
 </p>
 
-(https://skillicons.dev/icons?i=js,ts,nodejs,react,tailwind,figma,postgres,git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,nodejs,react,html,css,tailwind,docker,supabase,express,postgres,remix,nextjs,vite,figma,git,linux)](https://skillicons.dev)
