@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="75px" src="khicon.png" alt="logo">
+  <img height="75px" src="kaueicon.png" alt="logo">
 </div>
 <br>
 
