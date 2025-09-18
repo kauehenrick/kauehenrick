@@ -7,4 +7,4 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,tailwind,postgres,figma,git,linux)](https://skillicons.dev)
 
 ### Learning/Interest
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vuejs,php,laravel)](https://skillicons.dev)
